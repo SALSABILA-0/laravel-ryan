@@ -1,0 +1,9 @@
+body{
+    background-image: url(../img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFF;
+}
+.login{
+    width: 50%;
+}
